@@ -1,3 +1,5 @@
+# Data Modeling with Postgres
+
 ## Introduction
 Sparkify is a music streaming app that wants to analyze the data it collects about songs and user activity.
 The ETL pipeline defines fact and dimension tables, and uses Python and SQL to transfer data from files in two local directories to Postgres tables.
